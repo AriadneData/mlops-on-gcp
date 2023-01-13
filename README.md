@@ -11,10 +11,10 @@ This repository is organized into two sections:
 - [Code samples](./examples/)
 
 
-### Mini workshops
+#### Mini workshops
 This section contains hands-on labs for instructor led ML Engineering mini workshops. 
 
-### Code Samples
+#### Code Samples
 This section compiles  samples demonstrating design and code patterns for a variety of ML Engineering topics. 
 
 
